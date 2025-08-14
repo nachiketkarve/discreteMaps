@@ -1,0 +1,8 @@
+{
+    "saveFolder": "./data/",
+    "modelName": "tent",
+    "iterations": 40000,
+    "dataPoints": 1000,
+    "averages": 1000,
+    "bins": 1000
+}
